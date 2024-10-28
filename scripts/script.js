@@ -1,5 +1,4 @@
 var gamestatus=0;
-console.log("dababy");
 const statusmsg = document.getElementById('status');
 const start = document.getElementById("start");
 const end = document.getElementById("end");
